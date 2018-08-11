@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewTutorial</string>
+    <string name="titulo_noticia">TITULO</string>
+    <string name="descricao_noticia">Descrição</string>
+</resources>
